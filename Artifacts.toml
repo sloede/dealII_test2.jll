@@ -1,0 +1,278 @@
+[[dealII]]
+arch = "aarch64"
+git-tree-sha1 = "27d5cd9e2316441e24fde1d11f7ffdb148f42ace"
+lazy = true
+mpi = "mpich"
+os = "macos"
+
+    [[dealII.download]]
+    sha256 = "af0868275662b99aeefab2d7b417be84b65d9fb134728668c6cea9dfa5f0a737"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.aarch64-apple-darwin-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f3d973c499ec6579c8852cf74c20f60ad34c93cb"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[dealII.download]]
+    sha256 = "0ba336206f4a565a03d7cb5590be720a3baeb21c5303acc50a30b834199defd1"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.aarch64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c727439094d0cc733c0bde912b42ae5e80a26a29"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[dealII.download]]
+    sha256 = "edbbca53bc4ff0909b1a85709402bed402110c0711bbf55eee2aa2e30446e8c9"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e7df5d1787f91706ffccb665c7522462ff490caf"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[dealII.download]]
+    sha256 = "15a8ec1c2b2d45b98cc6ef3c48ca36d0f3aac9af28103f4a910361f4c83acad5"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.aarch64-linux-musl-cxx03-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5fd7f6869520fac5f01337df38e75f83d696cccf"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[dealII.download]]
+    sha256 = "490e531d7402653ed29ff8d72129c10452f8cc2784dd77aca8260835619b432b"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.aarch64-linux-musl-cxx11-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1660c84e6e93ae37318aabc8ca335e907fe39bfe"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[dealII.download]]
+    sha256 = "7732e77b3fc170ec1ce1afb4c953d43cf121b8dff6369502e2aa4237618b35b2"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.armv6l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7ed6464a704c3e527a1459795c75499531352c83"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[dealII.download]]
+    sha256 = "9f25f58f84ccbc5e4c76f244ce662709cf7bbc0d74e2580099aeb95f9f3b0abc"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.armv6l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "95da5bde45fb42a19c985125068be9bf1946e9df"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[dealII.download]]
+    sha256 = "493aab9960a36876d4e79f34da98a6f6ec6c111b53a228e86c7e8ec103a6ce6d"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.armv6l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9acc73e008cc8815f899fdaa4dd972fee782cb0c"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[dealII.download]]
+    sha256 = "38ae322568224a4740f01cd205cbf90d30ce6cd70e5853ec9b5691c1a16438fb"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.armv6l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b329b095b138a0ce22d47a4c8dac58f85a3a33f8"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[dealII.download]]
+    sha256 = "97e66326d6890c833ba0b008d5d34d0b4b7c5c813bf0e3f209759f43355ee8d9"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.armv7l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "32f3baaa54f922ac5fc09d81dcc73e0165f663f2"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[dealII.download]]
+    sha256 = "c9d1053f85cc94a45770a8c07174b3e1d514a14e250f7e2b836a4e66fab4a615"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.armv7l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6872aa9cda6a910b5cebe6b832a2bff1d44ec96c"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[dealII.download]]
+    sha256 = "29f33b070959a713b62043220374e95b63d5b16b2bff4fdedb11b6bdb951000c"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.armv7l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aed46969399c8806a7149045cd9928cbdce21c90"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[dealII.download]]
+    sha256 = "1db1fe298d7f981981f9f425fece15b503cb68de5d87358800197242bda63938"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.armv7l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5af8b62d0e7d7077bf6a1bb4aacacf6d0c3a2b7d"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[dealII.download]]
+    sha256 = "9624ec57628aaf6d5167c2e60f57cfc54444c8afe0abb8cd9978ec874fce5423"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.i686-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b5122f33430ca39898a7b7dcde2d0e8f8b96c5ae"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[dealII.download]]
+    sha256 = "293c3553c452b2d1ebc8eea1936f632864fb56a42194be86bfe74ba239668e9a"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.i686-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "507e654e19c912fe2addaa1c2da11db36e4620d0"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[dealII.download]]
+    sha256 = "e8f92022267ad7117d5e337bb346e575bc109f73f583d1c661e30a01a2328be6"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.i686-linux-musl-cxx03-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "abfc9cd1ad5b18b41f1a305d523662a65b9df7be"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[dealII.download]]
+    sha256 = "6167975b7b09703276f060b0ab9a9d6586d3ea4ac15ea0f953ce1c0eb04c4c05"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.i686-linux-musl-cxx11-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "x86_64"
+git-tree-sha1 = "e14c18e8216f7f487d0eadcbc6f207cb796a2668"
+lazy = true
+mpi = "mpich"
+os = "macos"
+
+    [[dealII.download]]
+    sha256 = "e5e880dc22120b84b42f210f7612efcc6cb554afb3b9d7c21907d8797ba759d7"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.x86_64-apple-darwin-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e3f469535687fb1fe66612df2ce1f0b447b0bdba"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[dealII.download]]
+    sha256 = "07e07d2e95247a2b71d3619a38dbaa22ddb290b760608ca47f0128c85575cff4"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "623e03b6945b42e0f997c3ed3e73a21bf4a484cc"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[dealII.download]]
+    sha256 = "9ade2fb585ebc282d01b4f4e4b15cde080f73f5fb331dc019e14abccdd3838b8"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "faff309d099a2c152ba50acdd6c505fd2731250a"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[dealII.download]]
+    sha256 = "6e1efb7dd0156e8ad503c23d105c5b7b0924b77c97c8678c581102918bd85ccf"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.x86_64-linux-musl-cxx03-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5f6697ffba73faabe01016ad181679a3e6b8b05c"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[dealII.download]]
+    sha256 = "82a8f928741f8db91b6711fcbe74a9a837e7b18e6bb1b5cefede3c8f42c83012"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.x86_64-linux-musl-cxx11-mpi+mpich.tar.gz"
+[[dealII]]
+arch = "x86_64"
+git-tree-sha1 = "4778a6c1732727ab613b9adc7180866fb9071494"
+lazy = true
+mpi = "mpich"
+os = "freebsd"
+
+    [[dealII.download]]
+    sha256 = "445d82a008e1746f0b38b11b30de55829df1c2c3a1d1ee6ee16b18000fff759d"
+    url = "https://github.com/sloede/dealII_test2.jll/releases/download/dealII-v9.4.1+0/dealII.v9.4.1.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
